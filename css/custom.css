@@ -1,0 +1,75 @@
+/* 
+    Document   : custom
+    Created on : 17 Jan, 2014, 6:50:53 PM
+    Author     : kiran
+    Description:
+    Purpose of the stylesheet follows.
+    For Writing Custom Styles.
+*/
+
+/*color: #ED5235; */
+.errorMsg
+{
+    color: #FFF;
+}
+#hero
+{
+    background: none;
+    /*background-image:url('img/back4.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center; 
+    opacity:0.5;
+    background-size: auto;*/
+}
+#footFixed
+{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: #000;
+    min-height: 50px;
+    min-width: 100%;
+    line-height: 20px;
+    float: fixed;
+}
+.clear-fix
+{
+    clear: both;
+}
+#file
+{
+/*    box-shadow: 5px 5px 5px #222, -5px -5px 5px #222;*/
+}
+#back
+{
+    color: #fff;
+    position: fixed;
+    bottom: 6px;
+    right: 10px;
+}
+#iconMainLeft
+{
+    position: fixed;
+    bottom: 7px;
+    left: 10px;
+}
+#iconMainRight
+{
+    position: fixed;
+    bottom: 7px;
+    right: 10px;
+}
+.black
+{
+    background-image:url('../img/bb2.jpg');
+    -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
+  background-size: cover;
+  text-align: center;
+}
+.steps
+{
+    background-color: #34A782;
+}
